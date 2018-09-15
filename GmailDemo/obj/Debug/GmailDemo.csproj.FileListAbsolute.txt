@@ -1,0 +1,7 @@
+E:\Projects\GmailDemo\GmailDemo\bin\Debug\GmailDemo.exe.config
+E:\Projects\GmailDemo\GmailDemo\bin\Debug\GmailDemo.exe
+E:\Projects\GmailDemo\GmailDemo\bin\Debug\GmailDemo.pdb
+E:\Projects\GmailDemo\GmailDemo\obj\Debug\GmailDemo.csprojAssemblyReference.cache
+E:\Projects\GmailDemo\GmailDemo\obj\Debug\GmailDemo.csproj.CoreCompileInputs.cache
+E:\Projects\GmailDemo\GmailDemo\obj\Debug\GmailDemo.exe
+E:\Projects\GmailDemo\GmailDemo\obj\Debug\GmailDemo.pdb
